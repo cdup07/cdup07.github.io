@@ -15,7 +15,7 @@ cdup07@gmail.com
 **Purdue University, West Lafayette IN**  
 May 2024  
 Major: Cybersecurity  
-GPA: 3.48  
+GPA: 3.68  
 - Purdue Presidential Scholarship Recipient, Dean's List
 
 Relevant Coursework:
@@ -49,6 +49,8 @@ Relevant Coursework:
 *August 2023 – Present*
 - Design and develop a home lab environment using Proxmox and DevOps tools to virtualize a vulnerable Windows domain.
 - Utilize OPNsense to isolate network segments and control the flow of traffic between private and DMZ zones
+
+(I talk about these things on this site :D )
 
 **TracerFIRE Incident Response Capture the Flag – 2nd Place**  
 *Sandia National Laboratories*  
