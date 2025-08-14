@@ -30,11 +30,11 @@ Having already setup my domain and website through Cloudflare pages I explored w
 
 3. **Processing (Backend)** – Based on the artifact type, the request is routed to one of three dedicated Cloudflare Worker APIs (IP, domain/URL, or hash), each of which queries multiple OSINT sources (e.g., VirusTotal, AbuseIPDB, AlienVault, URLScan) and returns aggregated results.
 
-![cyberkit.dev frontend](assets\img\posts\2025-08-13-cyberkit-dev\image-1.png)
+![cyberkit.dev frontend](assets/img/posts/2025-08-13-cyberkit-dev/image-1.png)
 
 Seconds later, the results are returned and are report-ready. 
 
-![cyberkit.dev search results](assets\img\posts\2025-08-13-cyberkit-dev\image-2.png)
+![cyberkit.dev search results](assets/img/posts/2025-08-13-cyberkit-dev/image-2.png)
 
 Check it out here:
 [CyberKit.dev](https://cyberkit.dev/)
